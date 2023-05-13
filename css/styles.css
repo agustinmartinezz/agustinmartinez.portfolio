@@ -320,3 +320,6 @@ html {
     left: -2vw;
   }
 }
+.hover-bg:hover {
+  background-color: #BEBEBE !important;
+}
