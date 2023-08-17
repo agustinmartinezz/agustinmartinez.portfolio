@@ -217,6 +217,14 @@ html {
   background-color:#1a29cf;
 }
 
+.projectCard {
+  transition: transform 0.1s ease-in-out;
+}
+.projectCard:hover {
+  transform: scale(1.05);
+}
+
+
 @media (min-width: 576px) {
   .profile {
     height: 60vw;
